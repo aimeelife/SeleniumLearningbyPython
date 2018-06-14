@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<booklist type="technology">
+    <book>
+        <name>Selenium</name>
+        <author>wuxiaohua</author>
+    </book>
+    <book>
+        <name>Http</name>
+        <author>testa</author>
+    </book>    
+    <book>
+        <name>Java</name>
+        <author>testb</author>
+    </book>    
+</booklist>
